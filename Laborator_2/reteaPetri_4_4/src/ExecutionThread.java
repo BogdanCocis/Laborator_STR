@@ -40,8 +40,6 @@ public class ExecutionThread extends Thread {
 
                 }
 
-
-
                 System.out.println(this.getName() + " - STATE 3");
 
                 try {
